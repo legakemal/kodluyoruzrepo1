@@ -5,17 +5,15 @@ README dosyası,bir adet de index.html barındırıyor.
 
 ## Installation
 
-
 Öncelikle projeyi clonelayın.
 git clone https://github.com/legakemal/kodluyoruzrepo1.git
 
 ## Usage
 
-
 Projeyi clone'ladıktan sonra Visual Code programında açınız.
 
-Lİnux için:
 
+Lİnux için:
 cd kodluyoruzilkrepo
 code .
 
@@ -26,4 +24,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 ## Lisans
 
 
-(https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
